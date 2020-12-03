@@ -1,0 +1,25 @@
+body {
+    background: #19191A;
+  }
+
+  [d] {
+    position: relative;
+    margin: 50 0 0 117;
+    width: 0;
+    height: 0;
+    border-right: 75px solid #4F77FF;
+    border-top: 75px solid #4F77FF;
+    border-left: 75px solid #9AD5FF;
+    border-bottom: 75px solid #4F77FF;
+    border-radius: 75px;
+    transform: rotate(-45deg);
+  }
+
+  [q] {
+    position: absolute;
+    left: 125px;
+    top: 125px;
+    width: 75px;
+    height: 125px;
+    background: #F9E492;
+  }
